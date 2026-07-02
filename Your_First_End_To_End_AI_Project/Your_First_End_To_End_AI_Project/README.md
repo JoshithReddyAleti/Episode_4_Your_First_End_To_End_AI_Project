@@ -182,7 +182,7 @@ Your_First_End_To_End_AI_Project/
 ### Option A: Streamlit UI (recommended)
 
 ```bash
-git clone https://github.com/JoshithReddyAleti/Your_First_End_To_End_AI_Project.git
+git clone https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project.git
 cd Your_First_End_To_End_AI_Project
 
 python -m venv venv
