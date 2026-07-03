@@ -15,7 +15,7 @@
 ![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
 ![Episode](https://img.shields.io/badge/Episode-4%20of%2010-534AB7?style=flat-square)
 
-**[📖 Newsletter](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) · [⬅️ Episode 3](https://github.com/JoshithReddyAleti/Building_AI_Project_Blueprint_for_Beginners) · [🗺️ Roadmap](docs/ROADMAP.md) · [🧪 Tests](tests/)**
+**[📖 Newsletter](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) · [⬅️ Episode 3](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin) · [🗺️ Roadmap](docs/ROADMAP.md) · [🧪 Tests](tests/)**
 
 </div>
 
@@ -331,7 +331,7 @@ See [`docs/INTERVIEW_PREP.md`](docs/INTERVIEW_PREP.md) for the full guide.
 |---|---|---|
 | 1 | What is an LLM really? | [View repo →](https://github.com/JoshithReddyAleti/Understanding_LLMs_From_The_Inside_Out) |
 | 2 | Python for AI — what actually matters | [View repo →](https://github.com/JoshithReddyAleti/Python_For_AI_What_Actually_Matters) |
-| 3 | Tool calling, APIs & validation | [View repo →](https://github.com/JoshithReddyAleti/Building_AI_Project_Blueprint_for_Beginners) |
+| 3 | Tool calling, APIs & validation | [View repo →](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin) |
 | **4** | **Your first end-to-end AI project** | **← You are here** |
 | 5 | RAG — connecting AI to your data | Coming soon |
 
