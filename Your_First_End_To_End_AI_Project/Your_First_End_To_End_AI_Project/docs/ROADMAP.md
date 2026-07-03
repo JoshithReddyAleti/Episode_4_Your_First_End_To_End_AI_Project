@@ -73,7 +73,7 @@ Most beginners only reach layers 1–2. That's why their systems break.
 
 ---
 
-### 🔥 Episode 3 — Tool Calling, APIs & Validation ← You are here
+### 🔥 Episode 3 — Tool Calling, APIs & Validation 
 **Core question:** How do you build an AI system that does things, not just says things?
 
 **What you'll learn:**
@@ -89,7 +89,7 @@ Most beginners only reach layers 1–2. That's why their systems break.
 
 ---
 
-### 🔜 Episode 4 — Your First End-to-End AI Project
+### 🔜 Episode 4 — Your First End-to-End AI Project ← You are here
 **Core question:** How do you go from idea to a finished project you can show in an interview?
 
 **What you'll learn:**
