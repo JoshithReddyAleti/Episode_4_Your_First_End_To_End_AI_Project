@@ -73,7 +73,7 @@ Most beginners only reach layers 1–2. That's why their systems break.
 
 ---
 
-### 🔥 Episode 3 — Tool Calling, APIs & Validation 
+### ✅ Episode 3 — Tool Calling, APIs & Validation 
 **Core question:** How do you build an AI system that does things, not just says things?
 
 **What you'll learn:**
@@ -85,11 +85,11 @@ Most beginners only reach layers 1–2. That's why their systems break.
 
 **Key insight:** The jump from "LLM app" to "AI system" happens when your code can: Decide → Act → Validate → Recover.
 
-**Project:** [This repo](https://github.com/YOUR_USERNAME/tool-using-ai-assistant) — a modular tool-using assistant with calculator, weather API, validation, and tests.
+**Project:** [This repo](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin) — a modular tool-using assistant with calculator, weather API, validation, and tests.
 
 ---
 
-### 🔜 Episode 4 — Your First End-to-End AI Project ← You are here
+### 🔥 Episode 4 — Your First End-to-End AI Project ← You are here
 **Core question:** How do you go from idea to a finished project you can show in an interview?
 
 **What you'll learn:**
@@ -102,6 +102,7 @@ Most beginners only reach layers 1–2. That's why their systems break.
 **Key insight:** A project without a story is just code. A story without code is just talk. You need both.
 
 **Project:** An expanded version of the tool-using assistant with a proper CLI or Streamlit UI.
+**Project:** [This repo](https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project/tree/main/Your_First_End_To_End_AI_Project/Your_First_End_To_End_AI_Project) — a modular tool-using assistant with calculator, weather API, validation, and tests.
 
 ---
 
